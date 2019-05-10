@@ -34,7 +34,7 @@ In this lesson you will practice the workflow that allows you to solve labs on L
 
   The failure reads: `Make sure you have edited the file edit-me.txt`
 
-5. To pass this lab, make any change to the `edit-me.txt` file (this file starts off empty). You can do this by clicking on the name of the file in the file browser in the left pane; the empty file will load in the text editor. Type into the text editor to change the contents of the file, then save your changes.
+5. To pass this lab, make any change to the `edit-me.txt` file (this file starts off empty). You can do this by clicking on the name of the file in the file browser in the left pane; the empty file will load in the black text editor. Type into the text editor to change the contents of the file, then save your changes.
 
 6. Run the test suite again by entering `learn` into the console.
 
